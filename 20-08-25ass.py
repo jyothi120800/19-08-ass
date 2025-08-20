@@ -20,4 +20,4 @@ while True:
     else:
         print('No valid option picked')
         print('----------Exiting---------')
-    
+

@@ -6,7 +6,6 @@ while n > 1:
     factorial *= n
     n -= 1
 print(f"Factorial of {num} is {factorial}")
-
 #Reverse a number using a while loop.
 def reverse(num):
     rev=0
@@ -42,7 +41,6 @@ def login():
             if count==4:
                 print("You have exhaused your login attempts. Revisit after 24hrs.")
         else:
-            print("Something went wrong")
+            print("Something went wrong")
             break
 login()
-    
